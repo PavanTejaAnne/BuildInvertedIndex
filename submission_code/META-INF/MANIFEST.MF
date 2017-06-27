@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: inverted-index-hadoop
+Bundle-SymbolicName: inverted-index-hadoop
+Bundle-Version: 1.0.0.qualifier
+Export-Package: edu.cmpe281.hadoop
